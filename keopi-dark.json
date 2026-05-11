@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "keopi-dark",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(30, 24, 18)",
+      "toolbar_text": "rgb(237, 228, 216)",
+      "frame": "rgb(26, 20, 16)",
+      "tab_background_text": "rgb(200, 184, 168)",
+      "toolbar_field": "rgb(34, 28, 22)",
+      "toolbar_field_text": "rgb(237, 228, 216)",
+      "tab_line": "rgb(201, 145, 90)",
+      "popup": "rgb(42, 32, 24)",
+      "popup_text": "rgb(237, 228, 216)",
+      "tab_loading": "rgb(201, 145, 90)"
+    }
+  }
+}
